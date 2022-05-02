@@ -11,3 +11,4 @@ sudo apt install nfs-common -y
 sudo docker run -d --restart=unless-stopped -p 80:80 -p 443:443 --privileged rancher/rancher
 sleep 35
 docker logs $(docker ps | grep rancher/rancher | awk '{print $1}') 2>&1 | grep "Bootstrap Password:" > /tmp/rancher.log
+cat /tmp/rancher.log
