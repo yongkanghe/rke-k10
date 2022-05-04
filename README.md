@@ -2,6 +2,9 @@
 
 #### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter, Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
+# Build a RKE cluster
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z2dLw0_NJ2o&t=3s/0.jpg)](https://www.youtube.com/watch?v=Z2dLw0_NJ2o&t=3s)
+
 # Deploy a Rancher server
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AO2LAMZV074/0.jpg)](https://www.youtube.com/watch?v=AO2LAMZV074)
 #### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
