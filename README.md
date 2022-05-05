@@ -4,6 +4,9 @@
 
 # Deploy a Rancher server
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AO2LAMZV074/0.jpg)](https://www.youtube.com/watch?v=AO2LAMZV074)
+
+# Build a RKE cluster
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z2dLw0_NJ2o/0.jpg)](https://www.youtube.com/watch?v=Z2dLw0_NJ2o)
 #### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
 # Contributors
