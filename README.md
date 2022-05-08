@@ -12,5 +12,5 @@
 # Contributors
 #### Follow [Yongkang He](http://yongkang.cloud) on LinkedIn, Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
 
-#### Follow [Louisa He](https://www.linkedin.com/in/louisa-he-806631215/) on LinkedIn, Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
+#### Follow [Louisa He](https://www.linkedin.com/in/louisa-he-806631215/) on LinkedIn, Join [Kubernetes Data Management](https://lnkd.in/gZbwVMg5) Slack Group
 
