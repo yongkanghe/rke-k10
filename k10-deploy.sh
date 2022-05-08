@@ -1,3 +1,10 @@
+if [ ! -f myecsip ]; then
+  echo -n "-------Enter your node IP address and press [ENTER]: "
+  read myecsip
+  echo "" | awk '{print $1}'
+  echo $myecsip > myecsip
+fi
+
 echo '-------Deploy Kasten K10 and Postgresql on RKE in 3 mins'
 starttime=$(date +%s)
 . ./setenv.sh
@@ -7,12 +14,7 @@ FIRST2=$(echo -n $TEMP_PREFIX | head -c2)
 LAST2=$(echo -n $TEMP_PREFIX | tail -c2)
 MY_PREFIX=$(echo $FIRST2$LAST2)
 echo $MY_BUCKET > rke_bucketname
-export KUBECONFIG=./rke_kubeconfig.yml
-
-echo -n "-------Enter your node IP address and press [ENTER]: "
-read myecsip
-echo "" | awk '{print $1}'
-echo $myecsip > myecsip
+# export KUBECONFIG=./rke4louisa.yml
 
 echo '-------Install K10'
 helm repo add kasten https://charts.kasten.io
