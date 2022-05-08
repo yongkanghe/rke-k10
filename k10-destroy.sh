@@ -6,7 +6,7 @@ TEMP_PREFIX=$(echo $(whoami) | sed -e 's/\_//g' | sed -e 's/\.//g' | awk '{print
 FIRST2=$(echo -n $TEMP_PREFIX | head -c2)
 LAST2=$(echo -n $TEMP_PREFIX | tail -c2)
 MY_PREFIX=$(echo $FIRST2$LAST2)
-export KUBECONFIG=./rke_kubeconfig.yml
+# export KUBECONFIG=./rke4louisa.yml
 
 echo '-------Uninstalling postgresql and kasten'
 helm uninstall postgres -n yong-postgresql
