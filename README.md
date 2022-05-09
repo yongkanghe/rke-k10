@@ -4,7 +4,7 @@ I just want to build an RKE Cluster (Rancher Kubernetes Engine) to play with the
 
 It is challenging to create a RKE cluster if you are not familiar to it. After the RKE Cluster is up running, we still need to install Kasten, create a sample DB, create policies etc.. The whole process is not that simple.
 
-![image](https://pbs.twimg.com/media/FHLSGL8VEAAUrZQ?format=png&name=900x900)
+![image](https://pbs.twimg.com/media/FSRxfp9aIAIolN2?format=jpg&name=medium)
 
 This script based automation allows you to build a ready-to-use Kasten K10 demo environment running on RKE in about 3 minutes. If you don't have an RKE Cluster, you can watch the Youtube video below and follow the guide to build an RKE cluster first. Once the RKE Cluster is up running, you can proceed to the next steps. 
 
